@@ -63,8 +63,3 @@ The study evaluates how molecular descriptors such as molecular weight, LogP, TP
 * Computational permeability prediction
 * Bioactive compound screening
 
----
-
-## Contribution
-
-Worked on literature survey, descriptor collection, data preprocessing, machine learning-based permeability prediction, and VCell simulation analysis for dermal diffusion studies.
